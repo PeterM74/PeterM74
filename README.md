@@ -5,10 +5,10 @@ I'm a **passionate** and experienced health data analyst based in Sydney, Austra
 
 ### Experience
 
-* <!--RPythonExp-->10<!--END--> years in R/Python
-* <!--HealthAnalysis-->7<!--END--> years health data analysis/science
-* <!--SurgDesign-->5<!--END--> years surgical study design and biostatistics
-* <!--AusHC-->7<!--END--> years Australian healthcare system
+* <!--RPythonExp-->13.1<!--END--> years in R/Python
+* <!--HealthAnalysis-->5.7<!--END--> years health data analysis/science
+* <!--SurgDesign-->5.1<!--END--> years surgical study design and biostatistics
+* <!--AusHC-->9.2<!--END--> years Australian healthcare system
 
 ### Affiliations
 
