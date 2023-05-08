@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "0 0 6 * *"
+    - cron: "0 0 */3 * *"
 
 jobs:
   generate-data:
@@ -31,9 +31,8 @@ jobs:
 
       - name: Query dependencies
         run: |
-          install.packages('lubridate')
+          install.packages(c('tidyverse', 'sessioninfo', 'httr')
           install.packages('purrr')
-          # saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
           writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
         shell: Rscript {0}
 
@@ -50,8 +49,12 @@ jobs:
       #   shell: Rscript {0}
           
       - name: Update README
+        env:
+          TRELLOKEY: ${{ secrets.TRELLOKEY }}
+          TRELLOTOKEN: ${{ secrets.TRELLOTOKEN }}
         run: |
-          source("R/UpdateREADME.R")
+          source("R/UpdateREADMEExperience.R")
+          source("R/LoadTrelloBoard.R")
         shell: Rscript {0} 
         
       - name: Commit files
