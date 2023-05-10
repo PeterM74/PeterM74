@@ -121,12 +121,15 @@ FinalTableOutput <- paste0("**Personal board**\n",
 
 # Insert into README
 ## Read README
-READMEString <- readLines("README.md")
+READMEString <- readLines("README.md") %>%
+  paste0(collapse = "\n")
 
 
 ## Insert into README
 READMEString <- gsub(pattern = "<!--TrelloBoard-->.*<!--END-->",
-                     replacement = paste0("<!--TrelloBoard-->", FinalTableOutput, "<!--END-->"),
-                     x = READMEString)
+                     replacement = paste0("<!--TrelloBoard-->\n", FinalTableOutput, "\n<!--END-->"),
+                     x = READMEString) %>%
+  stringr::str_split(pattern = "\n") %>%
+  unlist()
 
 writeLines(READMEString, con = file("README.md"))

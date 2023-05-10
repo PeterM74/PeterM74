@@ -31,8 +31,7 @@ jobs:
 
       - name: Query dependencies
         run: |
-          install.packages(c('tidyverse', 'sessioninfo', 'httr')
-          install.packages('purrr')
+          install.packages(c('tidyverse', 'sessioninfo', 'httr'))
           writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
         shell: Rscript {0}
 

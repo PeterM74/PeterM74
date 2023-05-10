@@ -23,4 +23,6 @@ I'm a **passionate** and experienced health data analyst based in Sydney, Austra
 
 Sometimes I lose track of all my personal projects so I use a kanban board to keep on top of it. See my board below to keep track of what is in my pipeline and find out what might be holding up progress on your issue. This is a replica of my private Trello board and is updated via an API every 3 days using GitHub Actions. The Done list is flushed every fortnight.
 
-<!--TrelloBoard-->**Personal board**<!--END-->
+<!--TrelloBoard-->
+**Personal board**
+<!--END-->
