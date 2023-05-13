@@ -1,4 +1,7 @@
-library(tidyverse)
+library(lubridate)
+library(purrr)
+library(dplyr)
+library(stringr)
 library(httr)
 
 # Load key and token API secrets from Github
@@ -110,7 +113,7 @@ RowsTableComponent <- purrr::map_chr(1:length(EqualListOfColumns[[1]]),
 FinalTableOutput <- paste0("**Personal board**\n", 
                            HeaderTableComponent, 
                            RowsTableComponent, 
-                           "*Last updated: ", 
+                           "\n*Last updated: ", 
                            as.character(Sys.time()) %>%
                              lubridate::as_datetime(tz = Sys.timezone()) %>%
                              lubridate::with_tz(tzone = "Australia/Sydney"),
