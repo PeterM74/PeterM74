@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "0 0 */3 * *"
+    - cron: "17 10 */3 * *"
 
 jobs:
   generate-data:
@@ -27,7 +27,7 @@ jobs:
           r-version: ${{ matrix.config.r }}
           http-user-agent: ${{ matrix.config.http-user-agent }}
 
-      - uses: r-lib/actions/setup-pandoc@v2
+      # - uses: r-lib/actions/setup-pandoc@v2
 
       - name: Query dependencies
         run: |
