@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "17 10 */3 * *"
+    - cron: "17 11 */1 * *"
 
 jobs:
   generate-data:
@@ -24,7 +24,8 @@ jobs:
       
       - name: Linux dependencies
         run: |
-          sudo apt-get install -y libcurl-dev
+          sudo apt install libcurl4
+          # sudo apt-get install -y libcurl-dev
           # sudo apt-get install libcurl4-openssl-dev r-base
 
       - uses: r-lib/actions/setup-r@v2
