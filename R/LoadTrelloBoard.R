@@ -2,7 +2,7 @@ library(lubridate)
 library(purrr)
 library(dplyr)
 library(stringr)
-library(httr)
+library(httr2)
 
 # Load key and token API secrets from Github
 Key <- Sys.getenv("TRELLOKEY")
@@ -16,11 +16,12 @@ Board <- "6438b578e8f2790b2f230085"
 
 
 # Load lists
-ListTest <- httr::GET(paste0("https://api.trello.com/1/boards/", Board,
+ListTest <- httr2::request(paste0("https://api.trello.com/1/boards/", Board,
                              "/lists?fields=id,name&key=", Key, 
-                             "&token=", Token))
+                             "&token=", Token)) %>%
+  httr2::req_perform()
 
-ListData <- httr::content(ListTest)
+ListData <- httr2::resp_body_json(ListTest)
 
 ListDF <- purrr::map_dfr(ListData,
                          function(x) tibble::tibble(id = x$id, name = x$name))
@@ -28,11 +29,12 @@ ListDF <- purrr::map_dfr(ListData,
 
 
 # Load cards
-CardTest <- httr::GET(paste0("https://api.trello.com/1/boards/", Board, 
+CardTest <- httr2::request(paste0("https://api.trello.com/1/boards/", Board, 
                              "/cards?fields=name,labels,idList&key=", Key,
-                             "&token=", Token))
+                             "&token=", Token)) %>%
+  httr2::req_perform()
 
-CardData <- httr::content(CardTest)
+CardData <- httr2::resp_body_json(CardTest)
 
 CardDF <- purrr::map_dfr(CardData,
                          function(x) tibble::tibble(id = x$id, 
