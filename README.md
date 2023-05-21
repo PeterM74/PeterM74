@@ -5,10 +5,10 @@ I'm a **passionate** and experienced health data analyst based in Sydney, Austra
 
 ### Experience
 
-* <!--RPythonExp-->13.1<!--END--> years in R/Python
-* <!--HealthAnalysis-->5.7<!--END--> years health data analysis/science
+* <!--RPythonExp-->13.2<!--END--> years in R/Python
+* <!--HealthAnalysis-->5.8<!--END--> years health data analysis/science
 * <!--SurgDesign-->5.1<!--END--> years surgical study design and biostatistics
-* <!--AusHC-->9.2<!--END--> years Australian healthcare system
+* <!--AusHC-->9.3<!--END--> years Australian healthcare system
 
 ### Affiliations
 
@@ -27,12 +27,11 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Publication: SCI and UTI readmission publication | University: Mark Part B videos | University: Mark Module 5 |
-| escapeRoom: Add tests | Personal: Use MidJourney to generate boardgame scrapbook |   |
-| Personal: Chess analysis doc | Personal: Add KanBan board to GitHub profile |   |
-| escapeRoom: Finalise wiki | Publication: Data governance publication |   |
-| Personal: Create discord bot on RaspberryPi | Personal: ProjectEuler - Finalise 351 |   |
-|   | Personal: Develop Strapping app |   |
+| Publication: SCI and UTI readmission publication | Personal: Use MidJourney to generate boardgame scrapbook | University: Mark Module 5 |
+| escapeRoom: Add tests | Personal: Add KanBan board to GitHub profile | University: Mark Part B videos |
+| Personal: Chess analysis doc | Publication: Data governance publication |   |
+| escapeRoom: Finalise wiki | Personal: ProjectEuler - Finalise 351 |   |
+| Personal: Create discord bot on RaspberryPi | Personal: Develop Strapping app |   |
 
-*Last updated: 2023-05-20 12:34:04*
+*Last updated: 2023-05-21 21:26:06.888906*
 <!--END-->
