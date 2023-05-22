@@ -118,7 +118,8 @@ FinalTableOutput <- paste0("**Personal board**\n",
                            "\n*Last updated: ", 
                            as.character(Sys.time()) %>%
                              lubridate::as_datetime(tz = Sys.timezone()) %>%
-                             lubridate::with_tz(tzone = "Australia/Sydney"),
+                             lubridate::with_tz(tzone = "Australia/Sydney") %>%
+                             format(format = "%Y-%m-%d %H:%M %Z"),
                            "*",
                            collapse = "")
 
