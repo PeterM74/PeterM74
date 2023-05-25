@@ -34,5 +34,5 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: Chess analysis doc |   |   |
 | escapeRoom: Finalise wiki |   |   |
 
-*Last updated: 2023-05-22 21:28 AEST*
+*Last updated: 2023-05-25 21:27 AEST*
 <!--END-->
