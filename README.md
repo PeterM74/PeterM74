@@ -28,12 +28,12 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | To Do | Doing | Done |
 | --- | --- | --- |
 | Publication: Review manuscript from ANZJoS | University: Mark Part A presentations | Personal: ProjectEuler - Finalise 351 |
-| escapeRoom: Add tests | Publication: SCI and UTI readmission publication | University: Mark Part B videos |
-| Personal: Chess analysis doc | Personal: Create discord bot on RaspberryPi | Personal: Add KanBan board to GitHub profile |
+| escapeRoom: Add tests | Publication: SCI and UTI readmission publication |   |
+| Personal: Chess analysis doc | Personal: Create discord bot on RaspberryPi |   |
 | escapeRoom: Finalise wiki | Personal: Use MidJourney to generate boardgame scrapbook |   |
 | Personal: Develop Strapping app | Publication: Data governance publication |   |
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
 
-*Last updated: 2023-06-04 21:27 AEST*
+*Last updated: 2023-06-07 21:29 AEST*
 <!--END-->
