@@ -28,11 +28,11 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | To Do | Doing | Done |
 | --- | --- | --- |
 | escapeRoom: Add tests | University: Mark literature reviews | Publication: Review manuscript from ANZJoS |
-| Personal: Chess analysis doc | Publication: SCI and UTI readmission publication | Personal: ProjectEuler - Finalise 351 |
-| escapeRoom: Finalise wiki | BeastBot: Create Beastbot on RaspberryPi | University: Mark Part A presentations |
+| Personal: Chess analysis doc | Publication: SCI and UTI readmission publication | University: Mark Part A presentations |
+| escapeRoom: Finalise wiki | BeastBot: Create Beastbot on RaspberryPi |   |
 | Personal: Develop Strapping app | Publication: Data governance publication |   |
 | Personal: ProjectEuler - 345 | Personal: Use MidJourney to generate boardgame scrapbook |   |
 | Personal: ProjectEuler - 349 |   |   |
 
-*Last updated: 2023-06-13 21:29 AEST*
+*Last updated: 2023-06-16 21:27 AEST*
 <!--END-->
