@@ -35,6 +35,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: Develop Strapping app |   |   |
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
+| Personal: Add GH pages for poignant analyses |   |   |
 
-*Last updated: 2023-07-04 21:30 AEST*
+*Last updated: 2023-07-07 21:27 AEST*
 <!--END-->
