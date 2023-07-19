@@ -28,15 +28,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| University: Prepare S2 Canvas page | Publication: SCI and UTI readmission publication |  |
-| Personal: Code review PHP webpage | BeastBot: Create Beastbot on RaspberryPi |   |
-| escapeRoom: Add tests | Publication: Data governance publication |   |
-| Personal: Chess analysis doc |   |   |
-| escapeRoom: Finalise wiki |   |   |
+| Personal: Code review PHP webpage | Publication: SCI and UTI readmission publication |  |
+| escapeRoom: Add tests | University: Prepare S2 Canvas page |   |
+| Personal: Chess analysis doc | BeastBot: Create Beastbot on RaspberryPi |   |
+| escapeRoom: Finalise wiki | Publication: Data governance publication |   |
 | Personal: Develop Strapping app |   |   |
+| Personal: Add GH pages for poignant analyses |   |   |
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
-| Personal: Add GH pages for poignant analyses |   |   |
 
-*Last updated: 2023-07-16 21:27 AEST*
+*Last updated: 2023-07-19 21:27 AEST*
 <!--END-->
