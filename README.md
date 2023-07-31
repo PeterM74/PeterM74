@@ -9,7 +9,7 @@ I'm a **passionate** and experienced health data analyst based in Sydney, Austra
 * <!--RPythonExp-->13.4<!--END--> years in R/Python
 * <!--HealthAnalysis-->5.9<!--END--> years in health data analysis/science
 * <!--SurgDesign-->5.3<!--END--> years in surgical study design and biostatistics
-* <!--AusHC-->9.4<!--END--> years experience in the Australian healthcare system
+* <!--AusHC-->9.5<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
 
@@ -28,15 +28,15 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Publication: Peer review amendments to ANZJoS manuscript | Publication: SCI and UTI readmission conference submission |  |
-| Personal: Code review PHP webpage | Publication: SCI and UTI readmission publication |   |
-| escapeRoom: Add tests | University: Prepare S2 Canvas page |   |
-| Personal: Chess analysis doc | BeastBot: Create Beastbot on RaspberryPi |   |
-| escapeRoom: Finalise wiki | Publication: Data governance publication |   |
+| Publication: Peer review amendments to ANZJoS manuscript | Publication: SCI and UTI readmission publication | University: Prepare S2 Canvas page |
+| Personal: Code review PHP webpage | BeastBot: Create Beastbot on RaspberryPi | Publication: SCI and UTI readmission conference submission |
+| escapeRoom: Add tests | Publication: Data governance publication |   |
+| Personal: Chess analysis doc |   |   |
+| escapeRoom: Finalise wiki |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Add GH pages for poignant analyses |   |   |
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
 
-*Last updated: 2023-07-28 21:27 AEST*
+*Last updated: 2023-07-31 21:29 AEST*
 <!--END-->
