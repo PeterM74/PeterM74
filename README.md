@@ -8,7 +8,7 @@ I'm a **passionate** and experienced health data analyst based in Sydney, Austra
 
 * <!--RPythonExp-->13.4<!--END--> years in R/Python
 * <!--HealthAnalysis-->6<!--END--> years in health data analysis/science
-* <!--SurgDesign-->5.3<!--END--> years in surgical study design and biostatistics
+* <!--SurgDesign-->5.4<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->9.5<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
@@ -28,15 +28,15 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Personal: Code review PHP webpage | University: Mark Module 1 | Publication: Peer review amendments to ANZJoS manuscript |
-| BeastBot: Implement LLM API to improve conversation range | Publication: SCI and UTI readmission publication | BeastBot: BeastBot V1.0 release |
-| escapeRoom: Add tests | Publication: Data governance publication | University: Prepare S2 Canvas page |
-| Personal: Chess analysis doc |   | Publication: SCI and UTI readmission conference submission |
-| escapeRoom: Finalise wiki |   | BeastBot: Create Beastbot on RaspberryPi |
+| Personal: Code review PHP webpage | Publication: SCI and UTI readmission publication | University: Mark Module 1 |
+| BeastBot: Implement LLM API to improve conversation range | Publication: Data governance publication | Publication: Peer review amendments to ANZJoS manuscript |
+| escapeRoom: Add tests |   | BeastBot: BeastBot V1.0 release |
+| Personal: Chess analysis doc |   | BeastBot: Create Beastbot on RaspberryPi |
+| escapeRoom: Finalise wiki |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Add GH pages for poignant analyses |   |   |
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
 
-*Last updated: 2023-08-13 21:28 AEST*
+*Last updated: 2023-08-16 21:28 AEST*
 <!--END-->
