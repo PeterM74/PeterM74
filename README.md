@@ -28,8 +28,9 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Personal: Code review PHP webpage | Publication: SCI and UTI readmission publication | University: Mark Module 1 |
-| BeastBot: Implement LLM API to improve conversation range | Publication: Data governance publication | Publication: Peer review amendments to ANZJoS manuscript |
+| University: Mark Module 2 | Publication: SCI and UTI readmission publication | University: Mark Module 1 |
+| Personal: Code review PHP webpage | Publication: Data governance publication |   |
+| BeastBot: Implement LLM API to improve conversation range |   |   |
 | escapeRoom: Add tests |   |   |
 | Personal: Chess analysis doc |   |   |
 | escapeRoom: Finalise wiki |   |   |
@@ -38,5 +39,5 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
 
-*Last updated: 2023-08-19 21:27 AEST*
+*Last updated: 2023-08-22 21:29 AEST*
 <!--END-->
