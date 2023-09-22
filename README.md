@@ -8,7 +8,7 @@ I'm a **passionate** and experienced health data analyst based in Sydney, Austra
 
 * <!--RPythonExp-->13.5<!--END--> years in R/Python
 * <!--HealthAnalysis-->6.1<!--END--> years in health data analysis/science
-* <!--SurgDesign-->5.4<!--END--> years in surgical study design and biostatistics
+* <!--SurgDesign-->5.5<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->9.6<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
@@ -29,13 +29,12 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | To Do | Doing | Done |
 | --- | --- | --- |
 | Personal: Code review PHP webpage | University: Mark Module 4 | University: Mark Module 3 |
-| Personal: Create Teams indicator light | Publication: SCI and UTI readmission publication |   |
-| escapeRoom: Finalise wiki | Publication: Data governance publication |   |
-| escapeRoom: Add tests |   |   |
-| Personal: Chess analysis doc |   |   |
+| escapeRoom: Finalise wiki | Publication: SCI and UTI readmission publication |   |
+| escapeRoom: Add tests | Publication: Data governance publication |   |
+| Personal: Chess analysis doc | Personal: Create Teams indicator light |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
 
-*Last updated: 2023-09-19 21:29 AEST*
+*Last updated: 2023-09-22 21:27 AEST*
 <!--END-->
