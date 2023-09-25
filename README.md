@@ -28,7 +28,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Personal: Code review PHP webpage | University: Mark Module 4 | University: Mark Module 3 |
+| Personal: Code review PHP webpage | University: Mark Module 4 |  |
 | escapeRoom: Finalise wiki | Publication: SCI and UTI readmission publication |   |
 | escapeRoom: Add tests | Publication: Data governance publication |   |
 | Personal: Chess analysis doc | Personal: Create Teams indicator light |   |
@@ -36,5 +36,5 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
 
-*Last updated: 2023-09-22 21:27 AEST*
+*Last updated: 2023-09-25 21:27 AEST*
 <!--END-->
