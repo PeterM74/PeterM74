@@ -29,12 +29,11 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | To Do | Doing | Done |
 | --- | --- | --- |
 | Personal: Code review PHP webpage | Publication: SCI and UTI readmission publication | University: Mark Module 4 |
-| escapeRoom: Finalise wiki | Publication: Data governance publication | Personal: Create Teams indicator light |
-| escapeRoom: Add tests |   |   |
-| Personal: Chess analysis doc |   |   |
+| escapeRoom: Add tests | Publication: Data governance publication | Personal: Create Teams indicator light |
+| Personal: Chess analysis doc | escapeRoom: Finalise wiki |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
 
-*Last updated: 2023-09-28 21:27 AEST*
+*Last updated: 2023-10-01 22:27 AEDT*
 <!--END-->
