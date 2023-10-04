@@ -13,7 +13,8 @@ I'm a **passionate** and experienced health data analyst based in Sydney, Austra
 
 ### Affiliations
 
-* **Senior data analyst** - Cancer Institute NSW
+* **Acting Program Lead, Data Engineering** - Cancer Institute NSW
+* **Senior data analyst** - Cancer Institute NSW (substantive position)
 * **Unit coordinator** (Master of Surgery program) - University of Sydney
 
 ### What I do in my spare time
