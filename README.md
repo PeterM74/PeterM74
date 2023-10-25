@@ -29,14 +29,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| University: Mark 5051 videos | Publication: Data governance publication | University: Mark Module 5 |
-| Personal: Code review PHP webpage | Publication: SCI and UTI readmission publication |   |
-| Personal: Chess analysis doc |   |   |
-| escapeRoom: Improve win/fail notifications |   |   |
+| Personal: Code review PHP webpage | University: Mark 5051 videos | University: Mark Module 5 |
+| Personal: Chess analysis doc | Publication: Data governance publication |   |
+| escapeRoom: Improve win/fail notifications | Publication: SCI and UTI readmission publication |   |
 | escapeRoom: Add tests |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
+| Personal: Code Poker team game |   |   |
 
-*Last updated: 2023-10-22 22:27 AEDT*
+*Last updated: 2023-10-25 22:29 AEDT*
 <!--END-->
