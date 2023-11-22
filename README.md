@@ -7,7 +7,7 @@ I'm a **passionate** and experienced health data analyst based in Sydney, Austra
 ### Experience
 
 * <!--RPythonExp-->13.7<!--END--> years in R/Python
-* <!--HealthAnalysis-->6.2<!--END--> years in health data analysis/science
+* <!--HealthAnalysis-->6.3<!--END--> years in health data analysis/science
 * <!--SurgDesign-->5.6<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->9.8<!--END--> years experience in the Australian healthcare system
 
@@ -29,14 +29,13 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| University: Mark literature reviews | University: Mark 5050 videos |  |
-| Personal: Code review PHP webpage | Publication: SCI and UTI readmission publication |   |
-| Personal: Chess analysis doc | Personal: Build quick car park Shiny app |   |
-| escapeRoom: Improve win/fail notifications | Publication: Data governance publication |   |
-| Personal: Develop Strapping app | escapeRoom: Add tests |   |
-| Personal: ProjectEuler - 345 |   |   |
-| Personal: ProjectEuler - 349 |   |   |
+| Personal: Code review PHP webpage | Personal: Recover from COVID | University: Mark 5050 videos |
+| Personal: Chess analysis doc | University: Mark literature reviews |   |
+| escapeRoom: Improve win/fail notifications | Publication: SCI and UTI readmission publication |   |
+| Personal: Develop Strapping app | Personal: Build quick car park Shiny app |   |
+| Personal: ProjectEuler - 345 | Publication: Data governance publication |   |
+| Personal: ProjectEuler - 349 | escapeRoom: Add tests |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2023-11-19 22:27 AEDT*
+*Last updated: 2023-11-22 22:27 AEDT*
 <!--END-->
