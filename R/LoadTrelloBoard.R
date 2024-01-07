@@ -45,7 +45,10 @@ CardDF <- purrr::map_dfr(CardData,
   # Join list name to cards
   dplyr::left_join(ListDF %>%
                      dplyr::rename(ListName = name),
-                   by = c("idList" = "id"))
+                   by = c("idList" = "id")) %>%
+  
+  # Filter out private labels
+  dplyr::filter(label != "Private")
 
 
 
