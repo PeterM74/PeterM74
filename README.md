@@ -8,7 +8,7 @@ I'm a **passionate** and experienced health data analyst based in Sydney, Austra
 
 * <!--RPythonExp-->13.8<!--END--> years in R/Python
 * <!--HealthAnalysis-->6.4<!--END--> years in health data analysis/science
-* <!--SurgDesign-->5.7<!--END--> years in surgical study design and biostatistics
+* <!--SurgDesign-->5.8<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->9.9<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
@@ -39,5 +39,5 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: ProjectEuler - 349 |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-01-07 22:26 AEDT*
+*Last updated: 2024-01-10 22:27 AEDT*
 <!--END-->
