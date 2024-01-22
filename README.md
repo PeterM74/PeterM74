@@ -29,16 +29,18 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Personal: Code review PHP webpage | University: Prepare Semester 1 | Publication: SCI and UTI readmission publication |
-| BeastBot: Implement ChatGPT API integration | Personal: Build quick car park Shiny app | Publication: Write progress report for publication |
-| Personal: Chess analysis doc | Publication: Data governance publication |   |
-| escapeRoom: Improve win/fail notifications | escapeRoom: Add tests |   |
+| Publication: Finalise SCI & UTI output for manuscript | University: Prepare Semester 1 | Publication: SCI and UTI readmission publication |
+| Personal: Code review PHP webpage | Personal: Build quick car park Shiny app | Publication: Write progress report for publication |
+| Personal: Build murder mystery group challenge | Publication: Data governance publication |   |
+| BeastBot: Implement ChatGPT API integration | escapeRoom: Add tests |   |
+| Personal: Chess analysis doc |   |   |
+| escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: ProjectEuler - 345 |   |   |
 | Personal: ProjectEuler - 349 |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-01-19 22:27 AEDT*
+*Last updated: 2024-01-22 22:27 AEDT*
 <!--END-->
 
 ### GitHub Projects
