@@ -8,7 +8,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 
 * <!--RPythonExp-->13.9<!--END--> years in R/Python
 * <!--HealthAnalysis-->6.5<!--END--> years in health data analysis/science
-* <!--SurgDesign-->5.8<!--END--> years in surgical study design and biostatistics
+* <!--SurgDesign-->5.9<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->10<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
@@ -29,10 +29,10 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Publication: Finalise SCI & UTI output for manuscript | University: Prepare Semester 1 |  |
-| Personal: Code review PHP webpage | Personal: Build quick car park Shiny app |   |
-| Personal: Build murder mystery group challenge | Publication: Data governance publication |   |
-| BeastBot: Implement ChatGPT API integration | escapeRoom: Add tests |   |
+| Publication: Finalise SCI & UTI output for manuscript | Personal: Build quick car park Shiny app | University: Prepare Semester 1 |
+| Personal: Code review PHP webpage | Publication: Data governance publication |   |
+| Personal: Build murder mystery group challenge | escapeRoom: Add tests |   |
+| BeastBot: Implement ChatGPT API integration |   |   |
 | Personal: Fix TeamsStatusLight project |   |   |
 | Personal: Chess analysis doc |   |   |
 | escapeRoom: Improve win/fail notifications |   |   |
@@ -41,7 +41,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: ProjectEuler - 349 |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-02-10 22:26 AEDT*
+*Last updated: 2024-02-13 22:27 AEDT*
 <!--END-->
 
 ### GitHub Projects
