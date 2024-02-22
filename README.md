@@ -29,10 +29,10 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Personal: Code review PHP webpage | Publication: Finalise SCI & UTI output for manuscript | University: Prepare Semester 1 |
-| Personal: Build murder mystery group challenge | Personal: Build quick car park Shiny app |   |
-| BeastBot: Implement ChatGPT API integration | Publication: Data governance publication |   |
-| Personal: Fix TeamsStatusLight project | escapeRoom: Add tests |   |
+| Personal: Code review PHP webpage | Personal: Build quick car park Shiny app | Publication: Finalise SCI & UTI output for manuscript |
+| Personal: Build murder mystery group challenge | Publication: Data governance publication | University: Prepare Semester 1 |
+| BeastBot: Implement ChatGPT API integration | escapeRoom: Add tests |   |
+| Personal: Fix TeamsStatusLight project |   |   |
 | Personal: Chess analysis doc |   |   |
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Develop Strapping app |   |   |
@@ -40,7 +40,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: ProjectEuler - 349 |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-02-19 22:27 AEDT*
+*Last updated: 2024-02-22 22:27 AEDT*
 <!--END-->
 
 ### GitHub Projects
