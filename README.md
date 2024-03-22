@@ -8,7 +8,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 
 * <!--RPythonExp-->14<!--END--> years in R/Python
 * <!--HealthAnalysis-->6.6<!--END--> years in health data analysis/science
-* <!--SurgDesign-->5.9<!--END--> years in surgical study design and biostatistics
+* <!--SurgDesign-->6<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->10.1<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
@@ -30,7 +30,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | To Do | Doing | Done |
 | --- | --- | --- |
 | BeastBot: Implement ChatGPT API integration | Personal: Build quick car park Shiny app | University: Mark Module 2 |
-| Personal: Fix TeamsStatusLight project | Publication: Data governance publication | University: Mark Module 1 |
+| Personal: Fix TeamsStatusLight project | Publication: Data governance publication |   |
 | Personal: Build murder mystery group challenge | escapeRoom: Add tests |   |
 | Personal: Chess analysis doc |   |   |
 | escapeRoom: Improve win/fail notifications |   |   |
@@ -39,7 +39,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: ProjectEuler - 349 |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-03-19 22:26 AEDT*
+*Last updated: 2024-03-22 22:27 AEDT*
 <!--END-->
 
 ### GitHub Projects
