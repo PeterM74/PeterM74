@@ -28,10 +28,9 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| University: Mark Module 3 | Personal: Build quick car park Shiny app | University: Mark Module 2 |
-| BeastBot: Implement ChatGPT API integration | Publication: Data governance publication |   |
-| Personal: Fix TeamsStatusLight project | escapeRoom: Add tests |   |
-| Personal: Build murder mystery group challenge |   |   |
+| BeastBot: Implement ChatGPT API integration | Personal: Build quick car park Shiny app | University: Mark Module 3 |
+| Personal: Fix TeamsStatusLight project | Publication: Data governance publication | University: Mark Module 2 |
+| Personal: Build murder mystery group challenge | escapeRoom: Add tests |   |
 | Personal: Chess analysis doc |   |   |
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Develop Strapping app |   |   |
@@ -39,7 +38,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: ProjectEuler - 349 |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-03-28 22:26 AEDT*
+*Last updated: 2024-03-31 22:26 AEDT*
 <!--END-->
 
 ### GitHub Projects
