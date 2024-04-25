@@ -30,13 +30,13 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | --- | --- | --- |
 | BeastBot: Implement ChatGPT API integration | Publication: Review manuscript draft for SCI readmission | University: Mark Module 4 |
 | Personal: Fix TeamsStatusLight project | Publication: Data governance publication | Personal: Build quick car park Shiny app |
-| Personal: Build murder mystery group challenge | escapeRoom: Add tests | Personal: ProjectEuler - 349 |
-| Personal: Chess analysis doc |   | Personal: ProjectEuler - 345 |
+| Personal: Build murder mystery group challenge | escapeRoom: Add tests |   |
+| Personal: Chess analysis doc |   |   |
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-04-22 21:27 AEST*
+*Last updated: 2024-04-25 21:26 AEST*
 <!--END-->
 
 ### GitHub Projects
