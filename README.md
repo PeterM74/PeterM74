@@ -9,7 +9,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 * <!--RPythonExp-->14.2<!--END--> years in R/Python
 * <!--HealthAnalysis-->6.7<!--END--> years in health data analysis/science
 * <!--SurgDesign-->6.1<!--END--> years in surgical study design and biostatistics
-* <!--AusHC-->10.2<!--END--> years experience in the Australian healthcare system
+* <!--AusHC-->10.3<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
 
@@ -29,15 +29,16 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| BeastBot: Implement ChatGPT API integration | Publication: Review V2 manuscript for SCI readmission | Publication: Review manuscript draft for SCI readmission |
-| Personal: Fix TeamsStatusLight project | Publication: Evaluate IMPART trial | University: Mark Module 5 |
-| Personal: Build murder mystery group challenge | Publication: Data governance publication | Personal: Project Euler - 46, 49, 85, 719 |
-| Personal: Chess analysis doc | Personal: Project Euler - 81-83 |   |
-| escapeRoom: Improve win/fail notifications | escapeRoom: Add tests |   |
+| University: Mark video presos | Publication: Evaluate IMPART trial | Publication: Review V2 manuscript for SCI readmission |
+| BeastBot: Implement ChatGPT API integration | Publication: Data governance publication | Publication: Review manuscript draft for SCI readmission |
+| Personal: Fix TeamsStatusLight project | Personal: Project Euler - 81-83 | University: Mark Module 5 |
+| Personal: Build murder mystery group challenge | escapeRoom: Add tests |   |
+| Personal: Chess analysis doc |   |   |
+| escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-05-16 21:26 AEST*
+*Last updated: 2024-05-19 21:26 AEST*
 <!--END-->
 
 ### GitHub Projects
