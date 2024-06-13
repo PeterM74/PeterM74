@@ -29,8 +29,8 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| University: Mark literature reviews | Publication: Evaluate IMPART trial | Personal: Project Euler - 81-83,206 |
-| BeastBot: Implement ChatGPT API integration | Publication: Data governance publication | University: Mark video presos |
+| University: Mark literature reviews | Publication: Data governance publication |  |
+| BeastBot: Implement ChatGPT API integration | Publication: Evaluate IMPART trial |   |
 | Personal: Fix TeamsStatusLight project | escapeRoom: Add tests |   |
 | Personal: Build murder mystery group challenge |   |   |
 | Personal: Chess analysis doc |   |   |
@@ -38,7 +38,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-06-10 21:28 AEST*
+*Last updated: 2024-06-13 21:27 AEST*
 <!--END-->
 
 ### GitHub Projects
