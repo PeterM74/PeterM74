@@ -29,16 +29,15 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| University: Mark literature reviews | Publication: Data governance publication |  |
-| BeastBot: Implement ChatGPT API integration | Publication: Evaluate IMPART trial |   |
-| Personal: Fix TeamsStatusLight project | escapeRoom: Add tests |   |
-| Personal: Build murder mystery group challenge |   |   |
-| Personal: Chess analysis doc |   |   |
+| BeastBot: Implement ChatGPT API integration | University: Mark literature reviews |  |
+| Personal: Fix TeamsStatusLight project | Publication: Data governance publication |   |
+| Personal: Build murder mystery group challenge | Publication: Evaluate IMPART trial |   |
+| Personal: Chess analysis doc | escapeRoom: Add tests |   |
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-06-13 21:27 AEST*
+*Last updated: 2024-06-16 21:27 AEST*
 <!--END-->
 
 ### GitHub Projects
