@@ -9,7 +9,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 * <!--RPythonExp-->14.4<!--END--> years in R/Python
 * <!--HealthAnalysis-->6.9<!--END--> years in health data analysis/science
 * <!--SurgDesign-->6.3<!--END--> years in surgical study design and biostatistics
-* <!--AusHC-->10.4<!--END--> years experience in the Australian healthcare system
+* <!--AusHC-->10.5<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
 
@@ -29,14 +29,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| BeastBot: Implement ChatGPT API integration | Personal: Fix TeamsStatusLight project | University: Update Canvas for S2 |
-| Personal: Build murder mystery group challenge | Personal: Project Euler: 243 | Publication: Respond to reviewer's feedback - SCI urol |
-| Personal: Chess analysis doc | Publication: Data governance publication |   |
-| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial |   |
-| Personal: Develop Strapping app | escapeRoom: Add tests |   |
+| BeastBot: Implement ChatGPT API integration | Personal: Project Euler: 243 | Personal: Fix TeamsStatusLight project |
+| Personal: Build murder mystery group challenge | Publication: Data governance publication | University: Update Canvas for S2 |
+| Personal: Chess analysis doc | Publication: Evaluate IMPART trial | Publication: Respond to reviewer's feedback - SCI urol |
+| escapeRoom: Improve win/fail notifications | escapeRoom: Add tests |   |
+| Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-07-28 21:27 AEST*
+*Last updated: 2024-07-31 21:27 AEST*
 <!--END-->
 
 ### GitHub Projects
