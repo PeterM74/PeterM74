@@ -8,7 +8,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 
 * <!--RPythonExp-->14.4<!--END--> years in R/Python
 * <!--HealthAnalysis-->7<!--END--> years in health data analysis/science
-* <!--SurgDesign-->6.3<!--END--> years in surgical study design and biostatistics
+* <!--SurgDesign-->6.4<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->10.5<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
@@ -29,15 +29,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Personal: Do workday training | Personal: Project Euler: 243 | modulartabler: Add support for RangeMT to exclude other/total categories |
-| BeastBot: Implement ChatGPT API integration | Publication: Data governance publication | Personal: Update Tallawong data |
-| Personal: Build murder mystery group challenge | Publication: Evaluate IMPART trial | Personal: Fix TeamsStatusLight project |
-| Personal: Chess analysis doc | escapeRoom: Add tests | University: Mark Module 1 |
-| escapeRoom: Improve win/fail notifications |   |   |
+| BeastBot: Implement ChatGPT API integration | Publication: Data governance publication | modulartabler: Add support for RangeMT to exclude other/total categories |
+| Personal: Build murder mystery group challenge | Publication: Evaluate IMPART trial | Personal: Update Tallawong data |
+| Personal: Chess analysis doc | Personal: Project Euler: 243 | University: Mark Module 1 |
+| escapeRoom: Improve win/fail notifications | escapeRoom: Add tests |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-08-13 21:31 AEST*
+*Last updated: 2024-08-16 21:28 AEST*
 <!--END-->
 
 ### GitHub Projects
