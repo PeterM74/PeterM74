@@ -6,7 +6,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 
 ### Experience
 
-* <!--RPythonExp-->14.4<!--END--> years in R/Python
+* <!--RPythonExp-->14.5<!--END--> years in R/Python
 * <!--HealthAnalysis-->7<!--END--> years in health data analysis/science
 * <!--SurgDesign-->6.4<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->10.5<!--END--> years experience in the Australian healthcare system
@@ -29,15 +29,16 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| BeastBot: Implement ChatGPT API integration | Publication: Data governance publication - data collection | modulartabler: PR #16 |
-| modulartabler: Implement hierarchical table suppression | Publication: Evaluate IMPART trial | Personal: TallawongCPM: Add loading animation |
-| Personal: Build murder mystery group challenge | escapeRoom: Add tests | modulartabler: PR #13 |
-| Personal: Chess analysis doc |   | Personal: Project Euler: 59 |
-| escapeRoom: Improve win/fail notifications |   | University: Mark Module 2 |
+| University: Mark Module 3 | Publication: Data governance publication - data collection | modulartabler: PR #16 |
+| BeastBot: Implement ChatGPT API integration | Publication: Evaluate IMPART trial | Personal: TallawongCPM: Add loading animation |
+| modulartabler: Implement hierarchical table suppression | escapeRoom: Add tests | modulartabler: PR #13 |
+| Personal: Build murder mystery group challenge |   | Personal: Project Euler: 59 |
+| Personal: Chess analysis doc |   | University: Mark Module 2 |
+| escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-08-28 21:27 AEST*
+*Last updated: 2024-08-31 21:28 AEST*
 <!--END-->
 
 ### GitHub Projects
