@@ -7,7 +7,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 ### Experience
 
 * <!--RPythonExp-->14.5<!--END--> years in R/Python
-* <!--HealthAnalysis-->7<!--END--> years in health data analysis/science
+* <!--HealthAnalysis-->7.1<!--END--> years in health data analysis/science
 * <!--SurgDesign-->6.4<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->10.6<!--END--> years experience in the Australian healthcare system
 
@@ -29,15 +29,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| University: Mark Module 3 | BeastBot: Implement ChatGPT API integration | modulartabler: PR #16 |
-| modulartabler: Implement hierarchical table suppression | Publication: Data governance publication - data collection | Personal: TallawongCPM: Add loading animation |
-| Personal: Build murder mystery group challenge | Publication: Evaluate IMPART trial | modulartabler: PR #13 |
-| Personal: Chess analysis doc | escapeRoom: Add tests | University: Mark Module 2 |
-| escapeRoom: Improve win/fail notifications |   |   |
-| Personal: Develop Strapping app |   |   |
+| modulartabler: Implement hierarchical table suppression | modulartabler: Solve #17 | University: Mark Module 3 |
+| Personal: Build murder mystery group challenge | BeastBot: Implement ChatGPT API integration | modulartabler: PR #16 |
+| Personal: Chess analysis doc | Publication: Data governance publication - data collection | Personal: TallawongCPM: Add loading animation |
+| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial | modulartabler: PR #13 |
+| Personal: Develop Strapping app | escapeRoom: Add tests | University: Mark Module 2 |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-09-04 21:29 AEST*
+*Last updated: 2024-09-07 21:28 AEST*
 <!--END-->
 
 ### GitHub Projects
