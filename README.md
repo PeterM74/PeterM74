@@ -30,13 +30,13 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | To Do | Doing | Done |
 | --- | --- | --- |
 | modulartabler: Implement hierarchical table suppression | modulartabler: Solve #17 | University: Mark Module 3 |
-| Personal: Build murder mystery group challenge | BeastBot: Implement ChatGPT API integration | modulartabler: PR #16 |
-| Personal: Chess analysis doc | Publication: Data governance publication - data collection | Personal: TallawongCPM: Add loading animation |
-| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial | modulartabler: PR #13 |
-| Personal: Develop Strapping app | escapeRoom: Add tests | University: Mark Module 2 |
+| Personal: Build murder mystery group challenge | BeastBot: Implement ChatGPT API integration |   |
+| Personal: Chess analysis doc | Publication: Data governance publication - data collection |   |
+| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial |   |
+| Personal: Develop Strapping app | escapeRoom: Add tests |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-09-07 21:28 AEST*
+*Last updated: 2024-09-10 22:30 AEST*
 <!--END-->
 
 ### GitHub Projects
