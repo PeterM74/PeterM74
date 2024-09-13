@@ -31,12 +31,11 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | --- | --- | --- |
 | modulartabler: Implement hierarchical table suppression | modulartabler: Solve #17 | University: Mark Module 3 |
 | Personal: Build murder mystery group challenge | BeastBot: Implement ChatGPT API integration |   |
-| Personal: Chess analysis doc | Publication: Data governance publication - data collection |   |
-| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial |   |
-| Personal: Develop Strapping app | escapeRoom: Add tests |   |
-| Personal: Code Poker team game |   |   |
+| escapeRoom: Improve win/fail notifications | Publication: Data governance publication - data collection |   |
+| Personal: Develop Strapping app | Publication: Evaluate IMPART trial |   |
+| Personal: Code Poker team game | escapeRoom: Add tests |   |
 
-*Last updated: 2024-09-10 22:30 AEST*
+*Last updated: 2024-09-13 21:28 AEST*
 <!--END-->
 
 ### GitHub Projects
