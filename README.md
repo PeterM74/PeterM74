@@ -29,14 +29,15 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| modulartabler: Optimise suppress_secondary() | modulartabler: Solve #17 | Publication: BMS for SCI urol paper |
-| modulartabler: Implement linked table suppression | Publication: Data governance publication - data collection | University: Mark Module 4 - B |
-| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial | BeastBot: Implement ChatGPT API integration |
-| Personal: Build murder mystery group challenge | escapeRoom: Add tests |   |
+| University: Mark Module 5 - B | modulartabler: Solve #17 | University: Mark Module 4 - A |
+| modulartabler: Optimise suppress_secondary() | Publication: Data governance publication - data collection | Publication: BMS for SCI urol paper |
+| modulartabler: Implement linked table suppression | Publication: Evaluate IMPART trial | University: Mark Module 4 - B |
+| escapeRoom: Improve win/fail notifications | escapeRoom: Add tests | BeastBot: Implement ChatGPT API integration |
+| Personal: Build murder mystery group challenge |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-09-25 21:30 AEST*
+*Last updated: 2024-09-28 21:28 AEST*
 <!--END-->
 
 ### GitHub Projects
