@@ -35,7 +35,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-10-07 22:31 AEDT*
+*Last updated: 2024-10-10 22:30 AEDT*
 <!--END-->
 
 ### GitHub Projects
