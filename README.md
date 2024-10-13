@@ -7,9 +7,9 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 ### Experience
 
 * <!--RPythonExp-->14.6<!--END--> years in R/Python
-* <!--HealthAnalysis-->7.1<!--END--> years in health data analysis/science
+* <!--HealthAnalysis-->7.2<!--END--> years in health data analysis/science
 * <!--SurgDesign-->6.5<!--END--> years in surgical study design and biostatistics
-* <!--AusHC-->10.6<!--END--> years experience in the Australian healthcare system
+* <!--AusHC-->10.7<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
 
@@ -29,13 +29,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| modulartabler: Implement linked table suppression | Publication: Data governance publication - data collection | modulartabler: Solve #17 |
-| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial | University: Mark Module 4 - A |
-| Personal: Build murder mystery group challenge | escapeRoom: Add tests | University: Mark Module 5 - B |
+| University: Mark video presos - A | Publication: Data governance publication - data collection | modulartabler: Solve #17 |
+| modulartabler: Implement linked table suppression | Publication: Evaluate IMPART trial | University: Mark Module 5 - B |
+| escapeRoom: Improve win/fail notifications | escapeRoom: Add tests |   |
+| Personal: Build murder mystery group challenge |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-10-10 22:30 AEDT*
+*Last updated: 2024-10-13 22:27 AEDT*
 <!--END-->
 
 ### GitHub Projects
