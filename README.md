@@ -29,13 +29,13 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| modulartabler: Implement linked table suppression | University: Mark videos Part B | University: Mark video presos - A |
-| escapeRoom: Improve win/fail notifications | Publication: Data governance publication - data collection |   |
-| Personal: Build murder mystery group challenge | Publication: Evaluate IMPART trial |   |
-| Personal: Develop Strapping app | escapeRoom: Add tests |   |
+| modulartabler: Implement linked table suppression | Publication: Data governance publication - data collection | University: Mark videos Part B |
+| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial | University: Mark video presos - A |
+| Personal: Build murder mystery group challenge | escapeRoom: Add tests |   |
+| Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-10-22 22:29 AEDT*
+*Last updated: 2024-10-25 22:29 AEDT*
 <!--END-->
 
 ### GitHub Projects
