@@ -8,7 +8,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 
 * <!--RPythonExp-->14.6<!--END--> years in R/Python
 * <!--HealthAnalysis-->7.2<!--END--> years in health data analysis/science
-* <!--SurgDesign-->6.5<!--END--> years in surgical study design and biostatistics
+* <!--SurgDesign-->6.6<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->10.7<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
@@ -29,13 +29,13 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| modulartabler: Implement linked table suppression | Publication: Data governance publication - data collection | University: Mark videos Part B |
-| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial | University: Mark video presos - A |
-| Personal: Build murder mystery group challenge | escapeRoom: Add tests |   |
+| modulartabler: Implement linked table suppression | Publication: Data governance publication - data collection | modulartabler: Review PR#19 |
+| escapeRoom: Improve win/fail notifications | Publication: Evaluate IMPART trial | University: Mark videos Part B |
+| Personal: Build murder mystery group challenge | escapeRoom: Add tests | University: Mark video presos - A |
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-10-25 22:29 AEDT*
+*Last updated: 2024-10-28 22:31 AEDT*
 <!--END-->
 
 ### GitHub Projects
