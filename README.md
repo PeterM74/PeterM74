@@ -29,14 +29,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Publication: Data governance publication - data analysis | BeastBot: Add CI/CD process for Raspberry Pi | Personal: Project Euler: 53, 57, 62 |
-| modulartabler: Implement linked table suppression | escapeRoom: Add tests | University: Mark SURG5100 essays |
-| escapeRoom: Improve win/fail notifications |   | Publication: Evaluate IMPART trial |
-| Personal: Build murder mystery group challenge |   | Publication: Data governance publication - data collection |
-| Personal: Develop Strapping app |   | University: Mark Part A LRs |
+| Publication: Data governance publication - data analysis | escapeRoom: Add tests | BeastBot: Add CI/CD process for Raspberry Pi |
+| modulartabler: Implement linked table suppression |   | Personal: Project Euler: 53, 57, 62 |
+| escapeRoom: Improve win/fail notifications |   | University: Mark SURG5100 essays |
+| Personal: Build murder mystery group challenge |   | Publication: Evaluate IMPART trial |
+| Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-11-19 22:30 AEDT*
+*Last updated: 2024-11-22 22:30 AEDT*
 <!--END-->
 
 ### GitHub Projects
