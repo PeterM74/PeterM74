@@ -32,11 +32,11 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Publication: Data governance publication - data analysis | Personal: Project Euler: 78 | BeastBot: Add CI/CD process for Raspberry Pi |
 | modulartabler: Implement linked table suppression | escapeRoom: Add tests | Personal: Project Euler: 53, 57, 62 |
 | escapeRoom: Improve win/fail notifications |   | University: Mark SURG5100 essays |
-| Personal: Build murder mystery group challenge |   | Publication: Evaluate IMPART trial |
+| Personal: Build murder mystery group challenge |   |   |
 | Personal: Develop Strapping app |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2024-11-25 22:30 AEDT*
+*Last updated: 2024-11-28 22:31 AEDT*
 <!--END-->
 
 ### GitHub Projects
