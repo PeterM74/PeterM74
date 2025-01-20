@@ -13,7 +13,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 
 ### Affiliations
 
-* **Senior biostatistician** - NSW Health
+* **Lead biostatistician** - Cancer Institute NSW
 * **Unit coordinator** (Master of Surgery program) - University of Sydney
 * **Biostatistical consultation** - ad hoc
 
