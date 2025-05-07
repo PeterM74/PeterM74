@@ -29,15 +29,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| BeastBot: Integrate GPT 4o image generator (replace DALLE) | Personal: Project Euler: 100 | University: Mark Module 4 |
-| Personal: Update Metro parking history | escapeRoom: Add tests | Publication: Give IMPART advice |
-| Publication: Data governance publication - data analysis |   |   |
+| Personal: Update Metro parking history | Personal: Project Euler: 100 | BeastBot: Integrate GPT 4o image generator (replace DALLE) |
+| Publication: Data governance publication - data analysis | escapeRoom: Add tests |   |
 | modulartabler: Implement linked table suppression |   |   |
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Build murder mystery group challenge |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2025-05-04 21:29 AEST*
+*Last updated: 2025-05-07 21:32 AEST*
 <!--END-->
 
 ### GitHub Projects
