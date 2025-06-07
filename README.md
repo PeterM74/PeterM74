@@ -31,13 +31,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | --- | --- | --- |
 | University: Mark literature reviews | Personal: Project Euler: 100 | University: Mark Part A video presentations |
 | Personal: Update Metro parking history | escapeRoom: Add tests | University: Mark Part B video presentations |
+| Personal: Create gameshow app |   |   |
 | Publication: Data governance publication - data analysis |   |   |
 | modulartabler: Implement linked table suppression |   |   |
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Build murder mystery group challenge |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2025-06-04 21:34 AEST*
+*Last updated: 2025-06-07 21:31 AEST*
 <!--END-->
 
 ### GitHub Projects
