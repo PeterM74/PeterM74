@@ -29,7 +29,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Personal: Update Metro parking history | Personal: Project Euler: 100 | University: Mark literature reviews |
+| Personal: Update Metro parking history | Personal: Project Euler: 100 |  |
 | Personal: Create gameshow app | escapeRoom: Add tests |   |
 | Publication: Data governance publication - data analysis |   |   |
 | modulartabler: Implement linked table suppression |   |   |
@@ -37,7 +37,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | Personal: Build murder mystery group challenge |   |   |
 | Personal: Code Poker team game |   |   |
 
-*Last updated: 2025-06-28 21:32 AEST*
+*Last updated: 2025-07-01 21:33 AEST*
 <!--END-->
 
 ### GitHub Projects
