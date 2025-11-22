@@ -29,7 +29,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| University: Mark literature reviews | Personal: Create pageant app | University: Mark video preso Part B |
+| University: Mark literature reviews | Personal: Create pageant app |  |
 | Personal: Project Euler: 63 | Personal: Finish Statistical Rethinking |   |
 | Personal: Update Metro parking history | escapeRoom: Add tests |   |
 | Publication: Data governance publication - data analysis |   |   |
@@ -37,7 +37,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Build murder mystery group challenge |   |   |
 
-*Last updated: 2025-11-19 22:33 AEDT*
+*Last updated: 2025-11-22 22:29 AEDT*
 <!--END-->
 
 ### GitHub Projects
