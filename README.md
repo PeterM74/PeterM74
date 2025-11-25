@@ -29,15 +29,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| University: Mark literature reviews | Personal: Create pageant app |  |
-| Personal: Project Euler: 63 | Personal: Finish Statistical Rethinking |   |
-| Personal: Update Metro parking history | escapeRoom: Add tests |   |
-| Publication: Data governance publication - data analysis |   |   |
+| Personal: Project Euler: 63 | University: Mark literature reviews | Personal: Create pageant app |
+| Personal: Update Metro parking history | Personal: Finish Statistical Rethinking |   |
+| Publication: Data governance publication - data analysis | escapeRoom: Add tests |   |
 | modulartabler: Implement linked table suppression |   |   |
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Build murder mystery group challenge |   |   |
 
-*Last updated: 2025-11-22 22:29 AEDT*
+*Last updated: 2025-11-25 22:34 AEDT*
 <!--END-->
 
 ### GitHub Projects
