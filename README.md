@@ -8,7 +8,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 
 * <!--RPythonExp-->15.9<!--END--> years in R/Python
 * <!--HealthAnalysis-->8.5<!--END--> years in health data analysis/science
-* <!--SurgDesign-->7.8<!--END--> years in surgical study design and biostatistics
+* <!--SurgDesign-->7.9<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->12<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
@@ -35,7 +35,7 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Build murder mystery group challenge |   |   |
 
-*Last updated: 2026-02-10 23:03 AEDT*
+*Last updated: 2026-02-13 22:51 AEDT*
 <!--END-->
 
 ### GitHub Projects
