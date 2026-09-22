@@ -8,7 +8,7 @@ I'm a **passionate** and experienced health data specialist based in Sydney, Aus
 
 * <!--RPythonExp-->16.5<!--END--> years in R/Python
 * <!--HealthAnalysis-->9.1<!--END--> years in health data analysis/science
-* <!--SurgDesign-->8.4<!--END--> years in surgical study design and biostatistics
+* <!--SurgDesign-->8.5<!--END--> years in surgical study design and biostatistics
 * <!--AusHC-->12.6<!--END--> years experience in the Australian healthcare system
 
 ### Affiliations
@@ -29,14 +29,14 @@ Sometimes I lose track of all my personal projects so I use a kanban board to ke
 **Personal board**
 | To Do | Doing | Done |
 | --- | --- | --- |
-| Publication: Address reviewer minor revision comment | Personal: Finish Statistical Rethinking | University: Mark Module 3 |
-| Personal: Project Ruler: 61 | escapeRoom: Add tests |   |
-| Publication: Data governance publication - data analysis |   |   |
+| University: Mark module 4 | Publication: Address reviewer minor revision comment | University: Mark Module 3 |
+| Personal: Project Ruler: 61 | Personal: Finish Statistical Rethinking |   |
+| Publication: Data governance publication - data analysis | escapeRoom: Add tests |   |
 | modulartabler: Implement linked table suppression |   |   |
 | escapeRoom: Improve win/fail notifications |   |   |
 | Personal: Build murder mystery group challenge |   |   |
 
-*Last updated: 2026-09-20 00:28 AEST*
+*Last updated: 2026-09-23 01:32 AEST*
 <!--END-->
 
 ### GitHub Projects
